@@ -25,5 +25,8 @@
     "webpack-cli": "^3.3.12",
     "webpack-stream": "^6.1.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "slick-carousel": "^1.8.1"
+  }
 }
